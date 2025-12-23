@@ -1,0 +1,22 @@
+page {
+  background: #f7f7f7;
+  color: #1a1a1a;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.container {
+  padding: 24rpx;
+}
+
+.section-title {
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 32rpx 0 16rpx;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 20rpx;
+  box-shadow: 0 8rpx 24rpx rgba(0, 0, 0, 0.08);
+  padding: 24rpx;
+}
